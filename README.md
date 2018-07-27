@@ -1,4 +1,4 @@
 # CuteViruses
-Viruses are cute,but ABNORMAL
+Viruses are _cute_,but **ABNORMAL**
 
-## SO DON'T TRY ON YOUR OWN COMPUTER
+## SO DON'T TRY THEM ESAILY
