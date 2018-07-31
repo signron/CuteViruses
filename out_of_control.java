@@ -1,6 +1,3 @@
-// Developer: Minhas Kamal
-// Randomly moves the mouse pointer, & clicks different places on the screen.
-
 import java.awt.Robot;
 import java.awt.event.InputEvent;
 import java.util.Random;
